@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagomedBekkaev
 - 👀 I’m interested in Developpement 
-- 🌱 I’m currently learning C++/C#/Python/PHP/SQL/HTML
+- 🌱 I’m currently learning JavaScript/C++/C#/Python/PHP/SQL/HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
