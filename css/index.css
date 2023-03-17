@@ -528,7 +528,7 @@ body{
     padding-top: 40px;
 }
 .cv a button{
-    background: transparent;
+    /* background: transparent; */
     border:none;
     padding: 15px 30px;
     color: whitesmoke;
@@ -2334,7 +2334,7 @@ for tabs and large phones
         text-align: justify;
     }
     .cv a button{
-        background: transparent;
+        /* background: transparent; */
         border:none;
         padding: 25px 35px;
         color: whitesmoke;
