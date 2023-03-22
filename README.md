@@ -18,7 +18,7 @@ Je suis capable de travailler en équipe et de fournir des solutions créatives 
 
 Je suis particulièrement intéressé par les projets liés au développement web, et j'ai développé une expertise dans ce domaine. Je suis également compétent dans l'utilisation de Git pour la gestion de versions de code source.
 
-Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences en programmation et je suis ouvert à toute proposition de projet ou de collaboration. Si vous êtes intéressé par mon profil, n'hésitez pas à me contacter via mon email  (bekkaev.magomed@gmail.com) ou sur ma page [LinkedIn](linkedin.com/in/magomed-bekkaev/). Vous pouvez également consulter mon [portfolio en ligne](magomedbekkaev.com) pour en savoir plus sur mes projets et mes réalisations.
+Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences en programmation et je suis ouvert à toute proposition de projet ou de collaboration. Si vous êtes intéressé par mon profil, n'hésitez pas à me contacter via mon email  (bekkaev.magomed@gmail.com) ou sur ma page LinkedIn linkedin.com/in/magomed-bekkaev/. Vous pouvez également consulter mon portfolio en ligne (magomedbekkaev.com) pour en savoir plus sur mes projets et mes réalisations.
 <!---
 MagomedBekkaev/MagomedBekkaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
