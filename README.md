@@ -3,20 +3,18 @@ Je suis un étudiant passionné de développement Web, capable de concevoir des 
 Mes conpétences sont:
 
 - HTML5/CSS3, 
-- PHP, 
-- SQL, 
 - JavaScript (Node.js & Express.js), 
+- SQL, 
+- PHP
 - C#, 
 - Conception de base de données, 
 - Cybersécurité, 
 - GitHub,
 - Capacité à travailler en équipe, 
 - Autonomie,
-- Rigueur
+- Rigueur.
 
-Je suis capable de travailler en équipe et de fournir des solutions créatives pour résoudre les problèmes complexes. Ma capacité à travailler de manière autonome et à être rigoureux m'a permis de réussir dans divers projets. Mon objectif est de continuer à développer mes compétences en programmation et de contribuer à des projets innovants.
-
-Je suis particulièrement intéressé par les projets liés au développement web, et j'ai développé une expertise dans ce domaine. Je suis également compétent dans l'utilisation de Git pour la gestion de versions de code source.
+Je suis capable de travailler en équipe et de fournir des solutions créatives pour résoudre les problèmes complexes. Ma capacité à travailler de manière autonome et à être rigoureux m'a permis de réussir dans divers projets. Mon objectif est de continuer à développer mes compétences en programmation et de contribuer à des projets innovants. Je suis particulièrement intéressé par les projets liés au développement web, et j'ai développé une expertise dans ce domaine. 
 
 Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences en programmation et je suis ouvert à toute proposition de projet ou de collaboration. Si vous êtes intéressé par mon profil, n'hésitez pas à me contacter via mon email  (bekkaev.magomed@gmail.com) ou sur ma page LinkedIn (linkedin.com/in/magomed-bekkaev/). Vous pouvez également consulter mon portfolio en ligne (magomedbekkaev.com) pour en savoir plus sur mes projets et mes réalisations.
 <!---
